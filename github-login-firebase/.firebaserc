@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "react30-9183b": {
+      "hosting": {
+        "github-login-firebase": [
+          "react30-9183b"
+        ]
+      }
+    }
+  }
+}
